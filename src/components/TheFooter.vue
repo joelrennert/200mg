@@ -2,7 +2,8 @@
   <footer>
     <div class="container1">
       🫠 JOEL RENNERT 2024 》
-      <a href="https://github.com/joelrennert" target="_blank">github</a>
+      <a href="https://joelrennert.github.io/portfolio/" target="_blank">portfolio</a>
+      》<a href="https://github.com/joelrennert" target="_blank">github</a>
       》<a href="https://www.linkedin.com/in/joelrennert/" target="_blank">linkedin</a>
     </div>
     <div class="container2">
