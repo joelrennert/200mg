@@ -3,8 +3,11 @@
     <div class="container1">
       🫠 JOEL RENNERT 2024 》
       <a href="https://joelrennert.github.io/portfolio/" target="_blank">portfolio</a>
-      》<a href="https://github.com/joelrennert" target="_blank">github</a>
-      》<a href="https://www.linkedin.com/in/joelrennert/" target="_blank">linkedin</a>
+      》<a href="https://github.com/joelrennert" target="_blank">github</a> 》<a
+        href="https://www.linkedin.com/in/joelrennert/"
+        target="_blank"
+        >linkedin</a
+      >
     </div>
     <div class="container2">
       <span class="emoji">🍄</span>
@@ -23,6 +26,7 @@ export default {}
 
 .emoji:hover {
   animation: centeredBouncy 0.5s ease;
+  cursor: pointer;
 }
 
 @keyframes centeredBouncy {
@@ -40,7 +44,7 @@ export default {}
   }
   100% {
     transform: scale(1);
-}
+  }
 }
 
 .container1 {
